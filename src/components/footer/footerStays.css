@@ -1,0 +1,177 @@
+.footerContainer
+{
+    overflow-x: hidden;
+}
+.topFooter
+{
+    padding: 30px 5%;
+    background-color: rgb(23, 23, 69);
+}
+.myform{
+    margin: 10px 5%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.emailInput
+{
+    padding: 9px;
+    border-radius: 3px;
+    border: none;
+    width: 350px;
+}
+.subscribeBtn
+{
+    margin-left: 4px;
+    padding: 9px;
+    background: #006ce4;
+    border-radius: 3px;
+    color: white;
+    width: 135px;
+}
+.topSection{
+    background-color:rgb(0, 59, 149);
+}
+.propertyBtnConainer{
+    border-bottom: 1px solid white;
+    padding: 15px;
+}
+.propertyBtn {
+    border: 1px solid white;
+    width: 133px;
+    padding: 3px;
+    border-radius: 4px;
+    font-size: 14px;
+    color: white;
+}
+.pList
+{
+    display: flex;
+    padding: 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    text-decoration: underline;
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.propertyBtn:hover{
+    background-color: #a6b6c8;
+    opacity: 0.7;
+}
+/* .pList p:hover{
+    background-color: rgb(32, 32, 98);
+} */
+.bottomSection{
+    margin: 10px auto;
+}
+.ulHolder
+{
+    display: flex;
+    justify-content: center;
+    gap: 7%;
+    text-align: left;
+    color: #006ce4;
+    font-size: 12px;
+    line-height: 2;
+}
+.footer-navigation-links-list li:hover{
+    color: rgb(189, 140, 42);
+    cursor: pointer;
+}
+.extranet
+{
+    color: #006ce4;
+    cursor: pointer;
+}
+.extranet:hover{
+    color: rgb(189, 140, 42);
+}
+.copyrightPara
+{
+    text-align: left;
+    padding: 20px 180px;
+    font-size: 10px;
+}
+.descPara{
+    text-align: center;
+    padding: 0px 2%;
+    font-size: 11px;
+}
+.footerImgContainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 10px;
+    gap: 2%;
+}
+@media(max-width:991px)
+{
+    .copyrightPara{
+        padding: 20px 2%;
+    }
+    .footerImgContainer{
+        gap: 0.8%;
+    }
+}
+
+.ulHolderflight
+{
+    display: flex;
+    justify-content: center;
+    gap: 7%;
+    text-align: left;
+    color: #4a4848;
+    font-size: 12px;
+    line-height: 2;
+}
+.flightFooter{
+    background-color: #f5f5f5;
+    padding: 18px 0px 5px 0;
+}
+.flightulHeading
+{
+    color: black;
+    font-weight: 500;
+    font-size: larger;
+}
+.footer-flightnavigation-links-list li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.country{
+    padding: 15px 14%
+}
+.countryImg
+{
+    border-radius: 50%;
+    height: 25px;
+}
+.seperator{
+    color: #dfdbdb;
+}
+.ulHoldernext{
+    display: none;
+}
+@media(max-width:576px)
+{
+    /* change list to accordian */
+    .ulHolderflight{
+        display: none;
+    }
+    .ulHoldernext{
+        display: block;
+    }
+    .country{
+        display: flex;
+        justify-content: center;
+    }
+    .imgFoot{
+        display: none;
+    }
+}

@@ -1,0 +1,209 @@
+/* offer css */
+
+/* .offerSection{
+    margin: 52px auto;
+} */
+
+
+/* .edjn82992820{
+    font-size: 22px;
+    font-weight: 700;
+} */
+
+/* .dj3ei398{
+    display: flex;
+    gap: 10px;
+} */
+
+/* @media (max-width:1023px){
+    .dj3ei398{
+        flex-direction: column;
+    }
+
+    .wsi2u9e93{
+        width:100% !important;  
+    }
+} */
+
+/* .djniu298{
+    margin-top: 7px;
+    color: #595959;
+} */
+
+/* .wsi209{
+    display: flex;
+} */
+
+
+/* .oejij4uj{
+    height: 114px;
+    width: 118px;
+} */
+
+/* .wsi2u9e93 {
+    border: 1px solid #d4d4d4;
+    gap: 10px;
+    margin-top: 20px;
+    padding: 18px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+} */
+
+.eddmed03{
+    background: #4b4bdb;
+    color: white;
+    padding: 7px 12px;
+    margin-top: 15px;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+.ednej99{
+    position: absolute;
+    left: 220px;
+    top: 617px;
+}
+
+
+
+.rightArrow{
+    position: absolute;
+    left: 1335px;
+    border: none;
+    top: 610px;
+}
+
+
+::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+  }
+
+
+  .edjjijed{
+    position: relative;
+    left: 60%;
+    top: 130%;
+    width: 29%;
+  }
+
+
+  @media (max-width:1023px){
+    .edjjijed{
+        left: 0;
+    }
+  }
+
+  /* trendingdest css */ 
+
+  .jeni3en{
+    width: 67%;
+    margin: auto;
+}
+
+/* .edu3ui{
+    font-weight: bold;
+    font-size: 22px;
+} */
+
+
+/* .edijeio3{
+    color: #857c7c;
+} */
+
+/* .eidjniedu{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);ediediu
+    gap: 13px;
+
+} */
+
+/* .ediediu{
+    padding: 10px;
+    height: 267px;
+    margin-top: 10px;
+    border-radius: 9px;
+} */
+
+.rjjinru{
+    max-width: 100%;
+    height: auto;
+}
+
+.djeid3j{
+    display: grid;
+    width: 67%;
+    height: 200px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+/* .edi3u3ji{
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    overflow: scroll;
+} */
+
+/* .ejnfnirfif{
+    width: 340px;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 9px;
+    height: 240px;
+} */
+
+
+/* .edui3ie{
+    margin-top: 20px;
+} */
+
+
+
+/* destinationarea css */
+
+.enoo3eji3e90{
+    width: 67%;
+    margin: auto;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+/* .edn3iej93{
+    width: 67%;
+    margin: 5px auto;
+    color: #857c7c;
+} */
+
+.jhbuybuyg{
+    height: 200px;
+    width: 200px;
+}
+
+
+
+.enjdeojdi3{
+    width: 67%;
+    margin: auto;
+    display: flex;
+}
+
+/* .edi393idj{
+    width: 67%;
+    margin: auto;
+    display: flex;
+    overflow: scroll;
+    gap: 18px;
+} */
+
+/* @media (max-width:1023px){
+    .edi393idj{
+        width: 100%;
+    }
+} */
+
+/* @media (max-width:1023px){
+    .edn3iej93{
+        width: 100%;
+    }
+} */
